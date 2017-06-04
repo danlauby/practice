@@ -1,0 +1,7 @@
+*13/11/2015
+	- First Version 1.0 Release
+*09/02/2017
+       - Update Latest version of WP 4.7+
+       - Update 3rd Plugins
+       - Fix Map API problem
+       - Include One Click Import demo data featured
